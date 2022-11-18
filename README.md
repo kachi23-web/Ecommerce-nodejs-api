@@ -5,7 +5,7 @@ Nodejs-ecommerce Api
 
 Node.js E-Commerce API This full E-Commerce API build using Express and Mongo. Here it contains all the required functionalities of a full-fledged E-commerce API like User registration, User Login, Category Add, Edit & Delete, Product Add, Edit, Delete, Add product feature image & Add product images, Order creation and etc...
 
-#Setup $ git clone https://github.com/kachi23-web/ecommerce-nodejs.git $ cd ecommerce-nodejs $ npm install Duplicate and database.eshop.js as eshop.js and fill in environment variables Run The Service $ nodemon server.js API Endpoints User Routes
+#Setup $ git clone https://github.com/kachi23-web/Ecommerce-nodejs-api.git $ cd ecommerce-nodejs $ npm install Duplicate and database.eshop.js as eshop.js and fill in environment variables Run The Service $ nodemon server.js API Endpoints User Routes
 
 #Create User POST | /api/auths/register
 Key Value name Admin email admin@admin.com password password isAdmin true
