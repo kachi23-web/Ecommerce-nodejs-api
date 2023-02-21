@@ -59,7 +59,7 @@ Delete Product DELETE | /api/v1/products/{id}
 Orders Routes
 
 Create Order POST | /api/v1/orders
-{ "orderItems":[ { "quantity": 3, "product" : "602e9c348e700335d8532b14" }, { "quantity": 2, "product" : "602bde0161fcc409fc149734" } ], "shippingAddress1" : "No 45,Park Street", "shippingAddress2" : "No 46,Main Street", "city" : "Colombo", "zip" : "10600t", "country" : "Sri Lanka", "phone" : "+94717185748", "user" : "602e9b718e700335d8532b13" }
+{ "orderItems":[ { "quantity": 3, "product" : "602e9c348e700335d8532b14" }, { "quantity": 2, "product" : "602bde0161fcc409fc149734" } ], "shippingAddress1" : "No 45,Park Street", "shippingAddress2" : "No 46,Main Street", "city" : "Abuja", "zip" : "10600t", "country" : "Nigeria", "phone" : "+94717185748", "user" : "602e9b718e700335d8532b13" }
 
 Get Orders GET | /api/v1/orders
 
